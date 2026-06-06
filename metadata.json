@@ -1,0 +1,6 @@
+{
+  "name": "Daily Quran Insights",
+  "description": "Bite-sized, daily learning application that extracts and synthesizes margin notes, grammar, and key ideas directly from a comprehensive Quran PDF, presenting it in an immersive step-by-step card format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
